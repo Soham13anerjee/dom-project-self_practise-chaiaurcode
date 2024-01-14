@@ -32,7 +32,7 @@ button {
   /* margin-left: 50px; */
 }
 
-#subt {
+.guessSubmit {
   background-color: #161616;
   color: #ffffff;
   width: 200px;
@@ -42,6 +42,12 @@ button {
   border-style: none;
   margin-top: 50px;
   /* margin-left: 75px; */
+}
+#endg{
+  display: none;
+}
+#startn{
+  display: none;
 }
 
 #guessField {
